@@ -18,10 +18,10 @@ Heute habe ich ds unitiy framework kennengelernt und mich zu beginn in die Logik
 
 ## 21.2: Explorativer Wegwerf-Prototyp
 
-- [ ] ... (dieses AP sollte offline, also ohne Laptop zu bearbeiten sein)
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] Objektstruktur Definieren (Analog)
+- [ ] Neues Repo Erstellen
+- [ ] Einfaches Pong Erstellen
+- [ ] Kartentexturen besorgt
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
