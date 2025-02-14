@@ -9,10 +9,10 @@
 
 ## 14.2: Explorativer Wegwerf-Prototyp
 
-- [ ] Unity korrekt initialisieren
-- [ ] Tutorial im Buch für die Einführung in Unity (111-126,258-270)
+- [X] Unity korrekt initialisieren
+- [X] Tutorial im Buch für die Einführung in Unity (111-126,258-270)
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich ds unitiy framework kennengelernt und mich zu beginn in die Logik einarbeiten können. Zudem habe ich gelernt dass man das GitHub repo von beginn an verlinken soll. Sonst ist es unmöglich alle files hochzuladen, weil sie zu gross sind. Dieses repo ist momentan kaputt, weil ich nicht alle files hochladen konnte.
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
 
