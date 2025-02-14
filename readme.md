@@ -4,13 +4,13 @@
 
 ## Grob-Planung
 
-1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-2. Was wäre ein geeignetes Projekt für diese LP4? Können Sie mit diesem Projekt zeigen, wie Sie sich selbständig in eine Problemstellung einarbeiten können und eine überzeugende Lösung programmieren können?
+1. Meine Noten sind relativ gut. Daher werde ich diese LP in das Unity Framework einarbeiten.
+2. In dieser LP werde ich das Kartenspiel Tichu im Unity framework erstellen. 
 
 ## 14.2: Explorativer Wegwerf-Prototyp
 
-- [ ] ...
-- [ ] ...
+- [ ] Unity korrekt initialisieren
+- [ ] Beispiel Pong erstellen
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
