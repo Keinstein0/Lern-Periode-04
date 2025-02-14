@@ -10,7 +10,7 @@
 ## 14.2: Explorativer Wegwerf-Prototyp
 
 - [ ] Unity korrekt initialisieren
-- [ ] Beispiel Pong erstellen
+- [ ] Tutorial im Buch für die Einführung in Unity (111-126,258-270)
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
